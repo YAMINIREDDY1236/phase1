@@ -1,0 +1,41 @@
+{
+	"profile":{
+		"img":"baby.jpg",
+		"name":"yamini",
+		"roll":"17NN1A1236",
+		"place":"pdrl",
+		"gmail":"yamini142122@gmail.com"
+	},
+	"career":{
+		"info":"I want to seek a job in reputed company to explore my taughts for the benefits of the company"
+	},
+
+	"education":[
+		{
+	"degree":"b.tech",
+"institute":"asdhfjwyf",
+"per":"80%",
+"yop":"2018"
+}, {
+"degree":"intermediate",
+"institute":"erutwerhjg",
+"per":"89%",
+"yop":"2014"
+}, {
+"degree":"s.s.c",
+"institute":"erjtgejgh",
+"per":"82%",
+"yop":"2012"
+}
+],
+   "languages":[
+   	{
+   		"info":"english"
+   	},{
+   		"info":"telugu"
+   	},{
+
+   		"info":"hindi"
+   	}
+   	]
+}
